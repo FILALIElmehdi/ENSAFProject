@@ -1,13 +1,35 @@
-
-
-
-
-<Bold><h1 align='center'>
-Présentation d'une calculatrice avec menu 
-</h1></Bold>
+<h1 >
+Réalisateurs: 
+</h1>
+      <H2><I>-FILALI Elmehdi </I></H2>
+     <H2><I>-BOUTAHIR Ghita </I></H2>
+     <H2><I>-FRIDI FILALI Ayoub </I></H2>
+     <H2><I>-MAAKOUL Mohammed </I></H2>
+  
+<h1 align='center'>
+Calculatrice avec menu ( Présentation )
+</h1>
 
 
 https://user-images.githubusercontent.com/116765052/225055905-4067198c-f3ae-4e9a-bc84-2504743038b1.mp4
+
+
+
+<h1 align='center'>
+**Installation et exécution sur une machine virtuelle**
+</h1>
+
+
+https://user-images.githubusercontent.com/116765052/225113582-0cc80093-1694-430a-8353-2abd391f8f7c.mp4
+
+<h1 align='center'>
+**Installation et exécution sur une machine pyhisique**
+</h1>
+
+
+https://user-images.githubusercontent.com/116765052/225113951-da3f3148-7576-4a38-894a-12c7ab942dfe.mp4
+
+
 
 <h1 align='center'>
 **Etapes de création ( Compte rendu )**
